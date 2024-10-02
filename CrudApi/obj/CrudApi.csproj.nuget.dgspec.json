@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tomaz\\source\\repos\\WebAPI\\CrudApi\\CrudApi.csproj": {}
+    "C:\\Users\\tomaz\\source\\repos\\WebApi\\CrudApi\\CrudApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tomaz\\source\\repos\\WebAPI\\CrudApi\\CrudApi.csproj": {
+    "C:\\Users\\tomaz\\source\\repos\\WebApi\\CrudApi\\CrudApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomaz\\source\\repos\\WebAPI\\CrudApi\\CrudApi.csproj",
+        "projectUniqueName": "C:\\Users\\tomaz\\source\\repos\\WebApi\\CrudApi\\CrudApi.csproj",
         "projectName": "CrudApi",
-        "projectPath": "C:\\Users\\tomaz\\source\\repos\\WebAPI\\CrudApi\\CrudApi.csproj",
+        "projectPath": "C:\\Users\\tomaz\\source\\repos\\WebApi\\CrudApi\\CrudApi.csproj",
         "packagesPath": "C:\\Users\\tomaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomaz\\source\\repos\\WebAPI\\CrudApi\\obj\\",
+        "outputPath": "C:\\Users\\tomaz\\source\\repos\\WebApi\\CrudApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tomaz\\AppData\\Roaming\\NuGet\\NuGet.Config",

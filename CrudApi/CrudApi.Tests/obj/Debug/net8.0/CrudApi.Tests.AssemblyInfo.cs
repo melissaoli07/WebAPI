@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CrudApi")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CrudApi.Tests")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6145408d42b7aa7836edee34dfb88582ea1b0816")]
-[assembly: System.Reflection.AssemblyProductAttribute("CrudApi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CrudApi")]
+[assembly: System.Reflection.AssemblyProductAttribute("CrudApi.Tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CrudApi.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

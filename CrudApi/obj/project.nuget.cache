@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MI+iDNCigkaW5kJyGyoy6+z4wj2MtS6gngRrSSUSvuPOZBPlxNOnxnYmQukf1TlA58ew63ZEXySdIRGFW4KhkQ==",
+  "dgSpecHash": "EHY41OGI02Ygj/+5Vq7srf4eOAvXhIg43aWxC/kMTAtv+arcpyfYECpxnuKzjpaE6kQdoQ/8fM5or7G6Daon0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tomaz\\source\\repos\\WebAPI\\CrudApi\\CrudApi.csproj",
+  "projectFilePath": "C:\\Users\\tomaz\\source\\repos\\WebApi\\CrudApi\\CrudApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomaz\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\tomaz\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
