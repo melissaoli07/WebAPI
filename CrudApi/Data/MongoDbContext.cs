@@ -10,7 +10,7 @@ namespace CrudApi.Data
         public MongoDbContext(IConfiguration config)
         {
             var client = new MongoClient(config.GetConnectionString("MongoDb"));
-            _db = client.GetDatabase(config["Database"]);
+            _db = client.GetDatabase(config["DatabaseName"]);
         }
 
         public IMongoCollection<T> GetCollection<T>(string name)
