@@ -1,7 +1,7 @@
 using MongoDB.Driver;
 using Microsoft.Extensions.Configuration;
 
-namespace CrudApi.Data 
+namespace CrudApi.Data
 {
     public class MongoDbContext
     {
@@ -13,7 +13,7 @@ namespace CrudApi.Data
             _db = client.GetDatabase(config["DatabaseName"]);
         }
 
-        public IMongoCollection<T> GetCollection<T>(string name)
+        public virtual IMongoCollection<T> GetCollection<T>(string name)
         {
             return _db.GetCollection<T>(name);
         }
